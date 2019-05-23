@@ -7,3 +7,4 @@ project(demo1)
 # 指定生成目标
 add_subdirectory(string_use)
 add_subdirectory(gof_template)
+add_subdirectory(live555_demo)
